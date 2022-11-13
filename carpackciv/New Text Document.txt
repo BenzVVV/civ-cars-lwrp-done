@@ -1,0 +1,48 @@
+--aston
+	['ast'] = {
+		['name'] = 'ast',
+		['brand'] = 'aston',
+		['model'] = 'ast',
+		['price'] = ,
+		['category'] = '',
+		['hash'] = `ast`,
+		['shop'] = '',
+	},
+	['oycval'] = {
+		['name'] = 'oycval',
+		['brand'] = 'aston',
+		['model'] = 'oycval',
+		['price'] = ,
+		['category'] = '',
+		['hash'] = `oycval`,
+		['shop'] = '',
+	},
+	['dbx'] = {
+		['name'] = 'dbx',
+		['brand'] = 'aston',
+		['model'] = 'dbx',
+		['price'] = ,
+		['category'] = '',
+		['hash'] = `dbx`,
+		['shop'] = '',
+	},
+	['superleggera'] = {
+		['name'] = 'superleggera',
+		['brand'] = 'aston',
+		['model'] = 'superleggera',
+		['price'] = ,
+		['category'] = '',
+		['hash'] = `superleggera`,
+		['shop'] = '',
+	},
+--cadillac
+	['cats'] = {
+		['name'] = 'cats',
+		['brand'] = 'cadillac',
+		['model'] = 'cats',
+		['price'] = ,
+		['category'] = '',
+		['hash'] = `cats`,
+		['shop'] = '',
+	},
+--dodge
